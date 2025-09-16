@@ -18,14 +18,14 @@ import {
 
 export default function Home() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
-  const [isVisible, setIsVisible] = useState({});
+  const [isVisible, setIsVisible] = useState({} as any);
 
   useEffect(() => {
     const observer = new IntersectionObserver(
       (entries) => {
         entries.forEach((entry) => {
           if (entry.isIntersecting) {
-            setIsVisible((prev) => ({ ...prev, [entry.target.id]: true }));
+            setIsVisible((prev: any) => ({ ...prev, [entry.target.id]: true }));
           }
         });
       },
@@ -373,9 +373,8 @@ export default function Home() {
                 ))}
               </div>
               <blockquote className="text-xl text-gray-300 italic mb-6">
-                "ChatPro AI telah mengubah cara kami melayani pelanggan.
-                Response time meningkat 300% dan kepuasan pelanggan naik
-                drastis."
+                ChatPro AI telah mengubah cara kami melayani pelanggan. Response
+                time meningkat 300% dan kepuasan pelanggan naik drastis.
               </blockquote>
               <div className="flex items-center">
                 <div className="w-12 h-12 bg-gradient-to-br from-green-400 to-blue-500 rounded-full mr-4"></div>
