@@ -22,23 +22,24 @@ export default function TermsAndConditions() {
           {/* Main Heading */}
           <div className="mb-8">
             <h2 className="text-2xl font-bold mb-4">
-              TERMS AND CONDITIONS OF TCI PRODUCT USAGE
+              TERMS AND CONDITIONS OF VDI PRODUCT USAGE
             </h2>
             <p className="text-gray-700 leading-relaxed mb-4">
-              Thank you for Your trust in using TCI's products. By using any
-              services and/or products provided by PT Teknologi Cekat Indonesia
-              ("TCI"), hereby You, the company and/or business where You have
-              given permission or authorization to represent You ("User") agree
-              to the following Terms and Conditions of TCI Product Usage as well
-              as the terms, policies, and other related documentation as
-              implemented by TCI from time to time (the "Terms and Conditions").
+              Thank you for Your trust in using VDI's products. By using any
+              services and/or products provided by PT Virexa Digital
+              Internasional ("VDI"), hereby You, the company and/or business
+              where You have given permission or authorization to represent You
+              ("User") agree to the following Terms and Conditions of VDI
+              Product Usage as well as the terms, policies, and other related
+              documentation as implemented by VDI from time to time (the "Terms
+              and Conditions").
             </p>
             <p className="text-gray-700 leading-relaxed">
-              TCI may revoke and amend these Terms and Conditions from time to
-              time at TCI's sole discretion. The User acknowledges and agrees
+              VDI may revoke and amend these Terms and Conditions from time to
+              time at VDI's sole discretion. The User acknowledges and agrees
               that the User is obliged to check these Terms and Conditions from
               time to time to be in the know of the latest conditions and any
-              information regarding the terms of Product usage provided by TCI.
+              information regarding the terms of Product usage provided by VDI.
             </p>
           </div>
 
@@ -72,7 +73,7 @@ export default function TermsAndConditions() {
                     <div>
                       <p className="font-semibold">Confidential Information</p>
                       <p>
-                        means all business-related information of TCI that has
+                        means all business-related information of VDI that has
                         been or will be provided to the User, including but not
                         limited to product details, financial information, and
                         marketing plans.
@@ -103,12 +104,12 @@ export default function TermsAndConditions() {
                     </div>
                     <div>
                       <p className="font-semibold">Party</p>
-                      <p>means TCI or User.</p>
+                      <p>means VDI or User.</p>
                     </div>
                     <div>
                       <p className="font-semibold">Product</p>
                       <p>
-                        means the product offered and provided by TCI, including
+                        means the product offered and provided by VDI, including
                         but not limited to WhatsApp Business API & Omnichannel,
                         CRM Application, and Call Center System.
                       </p>
@@ -116,7 +117,7 @@ export default function TermsAndConditions() {
                     <div>
                       <p className="font-semibold">Quotation</p>
                       <p>
-                        means a document issued by TCI to the User, regulating
+                        means a document issued by VDI to the User, regulating
                         the Product package selected by the User.
                       </p>
                     </div>
@@ -161,7 +162,7 @@ export default function TermsAndConditions() {
                     </li>
                     <li>
                       The User guarantees that this submission does not contain
-                      any previous data on whose data is provided to TCI in
+                      any previous data on whose data is provided to VDI in
                       relation to the Product usage.
                     </li>
                     <li>
