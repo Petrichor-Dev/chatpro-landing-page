@@ -141,17 +141,17 @@ export default function FooterSection() {
             </a>
             <span className="text-slate-600">|</span>
             <a
-              href="#"
+              href="termsAndConditions"
               className="text-slate-400 hover:text-cyan-400 transition"
             >
-              Status
+              Terms
             </a>
             <span className="text-slate-600">|</span>
             <a
-              href="#"
+              href="privacyPolicy"
               className="text-slate-400 hover:text-cyan-400 transition"
             >
-              Privacy & Policy
+              Privacy
             </a>
           </div>
         </div>
