@@ -4,7 +4,7 @@ import Navbar from "../components/navbar";
 
 export const metadata = {
   title: "Terms and Conditions",
-  description: "Cekat.ai Terms and Conditions",
+  description: "Chatproapp.id Terms and Conditions",
 };
 
 export default function TermsAndConditions() {

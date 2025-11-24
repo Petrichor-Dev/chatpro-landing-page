@@ -4,7 +4,7 @@ import Navbar from "../components/navbar";
 
 export const metadata = {
   title: "Privacy Policy",
-  description: "Cekat.ai Omnichannel Privacy Policy",
+  description: "chatproapp.id Omnichannel Privacy Policy",
 };
 
 export default function PrivacyPolicy() {
@@ -22,15 +22,15 @@ export default function PrivacyPolicy() {
           {/* Introduction */}
           <div className="mb-8 space-y-4">
             <p className="text-gray-700 leading-relaxed">
-              Welcome to Cekat.ai Omnichannel! We're excited to have you as a
-              user of our powerful omnichannel Customer Relationship Management
-              (CRM) application. Before you get started, please take a moment to
-              read through our Terms and Conditions outlined below.
+              Welcome to chatproapp.id Omnichannel! We're excited to have you as
+              a user of our powerful omnichannel Customer Relationship
+              Management (CRM) application. Before you get started, please take
+              a moment to read through our Terms and Conditions outlined below.
             </p>
             <p className="text-gray-700 leading-relaxed">
               By using our platform, you agree to be bound by these terms. If
               you do not agree with any part of these terms, please refrain from
-              using Cekat.ai Omnichannel.
+              using chatproapp.id Omnichannel.
             </p>
           </div>
 
@@ -138,7 +138,7 @@ export default function PrivacyPolicy() {
                 <div className="space-y-2 text-gray-700">
                   <p>
                     <span className="font-bold">2.2.</span> You must be at least
-                    18 years old to use Cekat.ai Omnichannel and create an
+                    18 years old to use chatproapp.id Omnichannel and create an
                     account.
                   </p>
                   <p>
@@ -234,7 +234,7 @@ export default function PrivacyPolicy() {
               <div className="space-y-3 ml-4 text-gray-700">
                 <p>
                   <span className="font-bold">6.1.</span> All content and
-                  materials on Cekat.ai Omnichannel are our property or our
+                  materials on chatproapp.id Omnichannel are our property or our
                   licensors'.
                 </p>
                 <p>
@@ -253,8 +253,9 @@ export default function PrivacyPolicy() {
 
               <div className="space-y-3 ml-4 text-gray-700">
                 <p>
-                  <span className="font-bold">7.1.</span> Cekat.ai Omnichannel
-                  is provided "as is" without warranties or guarantees.
+                  <span className="font-bold">7.1.</span> chatproapp.id
+                  Omnichannel is provided "as is" without warranties or
+                  guarantees.
                 </p>
                 <p>
                   <span className="font-bold">7.2.</span> We shall not be liable
@@ -289,11 +290,11 @@ export default function PrivacyPolicy() {
                   For questions or concerns about these terms and Conditions,
                   please contact us at:
                 </p>
-                <p>Email: support@cekat.ai</p>
+                <p>Email: support@chatproapp.id</p>
                 <p className="text-sm">
-                  By using Cekat.ai Omnichannel, you acknowledge reading and
-                  understanding these Terms and Conditions and agree to be bound
-                  by them.
+                  By using chatproapp.id Omnichannel, you acknowledge reading
+                  and understanding these Terms and Conditions and agree to be
+                  bound by them.
                 </p>
               </div>
             </section>
