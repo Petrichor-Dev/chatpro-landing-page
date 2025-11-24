@@ -1,3 +1,4 @@
+/* eslint-disable react/no-unescaped-entities */
 import FooterSection from "../components/footer-section";
 import Navbar from "../components/navbar";
 
